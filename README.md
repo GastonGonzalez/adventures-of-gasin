@@ -32,6 +32,3 @@ Running Adventures of Gasin
         C:\GASIN> QBASIC.EXE FINAL.BAS
 
 6. From QBasic, select 'Run' > 'Start'
-
-6. 
-
